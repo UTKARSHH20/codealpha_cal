@@ -77,7 +77,7 @@ Calculator/
 
 ## 🙌 Author
 - Made with ❤️ by Utkarsh kumar
-<p align="center"> <a href="https://github.com/GxAniket"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:utkarsh0989@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/utkarsh-kumar-643bb5313"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://github.com/UTKARSHH20"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:utkarsh0989@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/utkarsh-kumar-643bb5313"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
@@ -93,4 +93,5 @@ This project is open-source and free to use for educational purposes.
 Attribution is appreciated 💙
 
 ---
+
 
